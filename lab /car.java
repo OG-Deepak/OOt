@@ -42,7 +42,7 @@ public class Main {
         car.price = sc.nextDouble();
 
         car.displayDetails();
-
+//comment 
         sc.close();
     }
 }
