@@ -1,0 +1,6 @@
+/**
+ * overriding
+ */
+public @interface overriding {
+
+}
