@@ -1,0 +1,14 @@
+/home/student/Downloads/TransportationManagementSystem/bin/Debug/net8.0/TransportationManagementSystem
+/home/student/Downloads/TransportationManagementSystem/bin/Debug/net8.0/TransportationManagementSystem.deps.json
+/home/student/Downloads/TransportationManagementSystem/bin/Debug/net8.0/TransportationManagementSystem.runtimeconfig.json
+/home/student/Downloads/TransportationManagementSystem/bin/Debug/net8.0/TransportationManagementSystem.dll
+/home/student/Downloads/TransportationManagementSystem/bin/Debug/net8.0/TransportationManagementSystem.pdb
+/home/student/Downloads/TransportationManagementSystem/obj/Debug/net8.0/TransportationManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/Downloads/TransportationManagementSystem/obj/Debug/net8.0/TransportationManagementSystem.AssemblyInfoInputs.cache
+/home/student/Downloads/TransportationManagementSystem/obj/Debug/net8.0/TransportationManagementSystem.AssemblyInfo.cs
+/home/student/Downloads/TransportationManagementSystem/obj/Debug/net8.0/TransportationManagementSystem.csproj.CoreCompileInputs.cache
+/home/student/Downloads/TransportationManagementSystem/obj/Debug/net8.0/TransportationManagementSystem.dll
+/home/student/Downloads/TransportationManagementSystem/obj/Debug/net8.0/refint/TransportationManagementSystem.dll
+/home/student/Downloads/TransportationManagementSystem/obj/Debug/net8.0/TransportationManagementSystem.pdb
+/home/student/Downloads/TransportationManagementSystem/obj/Debug/net8.0/TransportationManagementSystem.genruntimeconfig.cache
+/home/student/Downloads/TransportationManagementSystem/obj/Debug/net8.0/ref/TransportationManagementSystem.dll
