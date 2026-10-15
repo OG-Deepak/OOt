@@ -1,6 +1,0 @@
-/**
- * overriding
- */
-public @interface overriding {
-
-}
